@@ -1,6 +1,6 @@
 # Gyzylburc - Youtube Clone
 
-Gyzylburc is a youtube clone that developed by using Reactjs, mui, RapidAPI. \
+Gyzylburc is a youtube clone that developed by using Reactjs, mui, RapidAPI.
 
 Site is LIVE on -> [https://gyzylburc.netlify.app/](https://gyzylburc.netlify.app/)
 
