@@ -6,7 +6,7 @@ Site is LIVE on -> [https://gyzylburc.netlify.app/](https://gyzylburc.netlify.ap
 
 ## Project Content Images
 
-1. Home Page
+### '1. Home Page'
 
 ![home](https://github.com/Charyyev17/gyzylburc-youtube-clone/assets/66562485/a24235dd-fefe-4763-84c4-ba8d86048635)
 
